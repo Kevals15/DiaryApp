@@ -1,0 +1,62 @@
+## .NET Core / .NET 8.0 specific
+bin/
+obj/
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Bb]uild[Ll]og.*
+
+## Visual Studio files
+.vscode/
+.vs/
+/.vs
+../vs
+/.vs./
+## Rider files
+.idea/
+*.sln.iml
+
+## NuGet packages
+*.nupkg
+*.snupkg
+# The packages folder can be ignored because of PackageReference
+**/packages/*
+!**/packages/build/
+!**/packages/repositories.config
+
+## ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+## DotCover
+*.dotCover
+
+## Logs
+*.log
+
+## OS generated files
+.DS_Store
+Thumbs.db
+
+## Azure Pipelines
+artifacts/
+
+## Publish results
+publish/
+
+## Secret settings
+appsettings.Development.json
+appsettings.Local.json
+appsettings.*.Secrets.json
+
+## EF Core Migrations snapshot files (optional if not needed in source control)
+# Migrations/*Snapshot.cs
