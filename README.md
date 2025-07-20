@@ -59,7 +59,7 @@ An ASP.NET Core MVC application to manage personal diary entries efficiently and
   dotnet run
   ```
 
-** 💻 Project Structure**
+**💻 Project Structure**
   ```bash
   DiaryApp/
   ├── Controllers/
@@ -71,10 +71,10 @@ An ASP.NET Core MVC application to manage personal diary entries efficiently and
   └── Program.cs
 ```
 
-** 🙌 Acknowledgements**
+**🙌 Acknowledgements**
 Thanks to the .NET community and Microsoft Learn for comprehensive ASP.NET Core tutorials and documentation.
 
-** Contact**
+**Contact**
 Created with 💡 by Keval Shah
 📧 [keval.shah1507@gmail.com]
 
